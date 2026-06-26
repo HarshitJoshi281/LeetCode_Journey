@@ -11,4 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
+## Array
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
