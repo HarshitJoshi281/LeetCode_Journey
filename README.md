@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0739-daily-temperatures](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0739-daily-temperatures) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2090-k-radius-subarray-averages](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2090-k-radius-subarray-averages) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 ## Simulation
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2090-k-radius-subarray-averages](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2090-k-radius-subarray-averages) |
+## String
+|  |
+| ------- |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 <!---LeetCode Topics End-->
