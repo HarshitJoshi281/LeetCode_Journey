@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
 ## Array
 |  |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
