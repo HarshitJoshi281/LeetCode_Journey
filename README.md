@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0289-game-of-life) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
