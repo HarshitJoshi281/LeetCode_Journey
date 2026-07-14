@@ -9,9 +9,9 @@ class Solution {
         for(int i =0;i<nums.length;i++){
             int temp2=1;
             int temp =nums[i];
-            while((long) temp * temp <= Integer.MAX_VALUE &&
-       set.contains((int) ((long) temp * temp))){
+            while((long) temp * temp <= Integer.MAX_VALUE && set.contains((int) ((long) temp * temp))){
                 temp2++;
+                set.remove(temp);
                 temp=temp*temp;
             }
             seq=Math.max(temp2,seq);
