@@ -27,11 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2090-k-radius-subarray-averages) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0289-game-of-life) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -83,10 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
 | ------- |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
