@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0289-game-of-life) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0739-daily-temperatures) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -39,14 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
@@ -54,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
@@ -90,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Prefix Sum
