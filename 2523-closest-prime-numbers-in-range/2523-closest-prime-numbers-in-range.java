@@ -6,6 +6,7 @@ class Solution {
         int[] result = new int[2];
         for(int i =left;i<=right;i++){
             int temp =0;
+            
             if(isPrime(i)){
                 if(first==0){
                     first=i;
@@ -53,7 +54,7 @@ class Solution {
         }
         
         
-        for (int i = 3; i * i <= n; i += 2) {
+        for (int i = 3; i<= Math.sqrt(n); i += 2) {
             if (n % i == 0) {
                 return false; 
             }
