@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0739-daily-temperatures) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
 ## Design
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0289-game-of-life) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1260-shift-2d-grid) |
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
 ## Enumeration
