@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0007-reverse-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [0991-broken-calculator](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0991-broken-calculator) |
