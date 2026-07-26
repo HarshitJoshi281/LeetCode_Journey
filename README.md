@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sliding Window
 |  |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
