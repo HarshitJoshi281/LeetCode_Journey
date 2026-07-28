@@ -1,43 +1,31 @@
 class Solution {
     public String smallestPalindrome(String s) {
-        if(s.length()<=1)return s;
-        Map<Character,Integer> map = new HashMap<>();
-        for(char c : s.toCharArray()){
-           //int temp =c;
-           map.put(c,map.getOrDefault(c,0)+1);
+        if (s.length() <= 1) return s;
+
+        int[] freq = new int[26];
+
+        for (char ch : s.toCharArray()) {
+            freq[ch - 'a']++;
         }
+
         StringBuilder sb = new StringBuilder(s);
-        int i =0;
-        int j = s.length()-1;
-        char c ='a';
-        while(i<j){
-            int currFreq= map.getOrDefault(c, 0);
-            if(currFreq>2){
-                sb.setCharAt(i,c);
-                sb.setCharAt(j,c);
-                i++;
-                j--;
-                map.put(c, currFreq - 2);
 
-            }
-            else if(currFreq==2){
-                sb.setCharAt(i,c);
-                sb.setCharAt(j,c);
-                i++;
-                j--;
-                map.remove(c);
-                c++;
-            }
-            else if(currFreq==1){
-                sb.setCharAt(s.length()/2,c);
-                map.remove(c);
-                c++;
-            }
-            else{
-                c++;
+        int left = 0;
+        int right = s.length() - 1;
+
+        for (int i = 0; i < 26; i++) {
+            while (freq[i] >= 2) {
+                char ch = (char) ('a' + i);
+                sb.setCharAt(left++, ch);
+                sb.setCharAt(right--, ch);
+                freq[i] -= 2;
             }
 
+            if (freq[i] == 1) {
+                sb.setCharAt(s.length() / 2, (char) ('a' + i));
+            }
         }
+
         return sb.toString();
     }
 }
