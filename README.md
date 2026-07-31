@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
 | ------- |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
