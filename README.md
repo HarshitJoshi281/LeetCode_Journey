@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0486-predict-the-winner](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0486-predict-the-winner) |
 ## Array
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0007-reverse-integer) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0486-predict-the-winner](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [0991-broken-calculator](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0991-broken-calculator) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
+| [0486-predict-the-winner](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0486-predict-the-winner) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
@@ -239,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
