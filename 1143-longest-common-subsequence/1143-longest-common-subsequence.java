@@ -16,7 +16,7 @@ class Solution {
             return dp[i][j];
         }
         if (s1.charAt(i) == s2.charAt(j)) {
-            return 1 + help(i + 1, j + 1, s1, s2, dp);
+            return dp[i][j]= 1 + help(i + 1, j + 1, s1, s2, dp);
         } else {
             take = help(i, j + 1, s1, s2, dp);
             skip = help(i + 1, j, s1, s2, dp);
