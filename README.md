@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [0991-broken-calculator](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0991-broken-calculator) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
