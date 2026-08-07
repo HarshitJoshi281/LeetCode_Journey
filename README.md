@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2090-k-radius-subarray-averages](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2090-k-radius-subarray-averages) |
+| [2121-intervals-between-identical-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2121-intervals-between-identical-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3731-find-missing-elements) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2121-intervals-between-identical-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
 ## Tree
 |  |
