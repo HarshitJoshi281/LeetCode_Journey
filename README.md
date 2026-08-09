@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0016-3sum-closest) |
+| [0128-longest-consecutive-sequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
 ## Counting
