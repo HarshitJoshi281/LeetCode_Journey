@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0016-3sum-closest) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0200-number-of-islands) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [0991-broken-calculator](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0991-broken-calculator) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0016-3sum-closest) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
