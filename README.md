@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0486-predict-the-winner) |
 ## Array
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0739-daily-temperatures) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0016-3sum-closest) |
+| [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
