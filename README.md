@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0072-edit-distance) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1092-shortest-common-supersequence) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0486-predict-the-winner) |
