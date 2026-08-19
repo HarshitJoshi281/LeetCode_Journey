@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0072-edit-distance) |
 | [0647-palindromic-substrings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0016-3sum-closest) |
 | [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0072-edit-distance) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0368-largest-divisible-subset) |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
