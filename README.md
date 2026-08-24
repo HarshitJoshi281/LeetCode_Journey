@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
 ## Hash Table
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
