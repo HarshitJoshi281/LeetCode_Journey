@@ -41,7 +41,7 @@ class Solution {
             } 
             
            else if(entry.getValue() == max) { 
-                if(temp.compareTo(ans)<1){
+                if(temp.compareTo(ans)<0){
                     ans= temp;
                 } 
             } 
