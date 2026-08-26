@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2090-k-radius-subarray-averages](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2090-k-radius-subarray-averages) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0974-subarray-sums-divisible-by-k) |
