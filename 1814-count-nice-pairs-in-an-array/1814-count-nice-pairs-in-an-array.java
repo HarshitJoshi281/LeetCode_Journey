@@ -8,7 +8,7 @@ class Solution {
         for (int i =1;i<nums.length;i++){
            
             int rev = reverce(nums[i]);
-            int diff = nums[i]-reverce(nums[i]);
+            int diff = nums[i]-rev;
             if(map.containsKey(diff)){
                 count =(count + map.get(diff))%mod;
             }
