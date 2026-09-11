@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [0991-broken-calculator](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0991-broken-calculator) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2523-closest-prime-numbers-in-range) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
+| [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
 ## Heap (Priority Queue)
