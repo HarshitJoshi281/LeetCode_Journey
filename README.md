@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2370-longest-ideal-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2370-longest-ideal-subsequence) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2121-intervals-between-identical-elements) |
+| [2370-longest-ideal-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2370-longest-ideal-subsequence) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2370-longest-ideal-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2370-longest-ideal-subsequence) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Number Theory
