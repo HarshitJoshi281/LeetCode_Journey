@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0289-game-of-life) |
 | [1260-shift-2d-grid](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1260-shift-2d-grid) |
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
