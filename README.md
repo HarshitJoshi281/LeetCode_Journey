@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0076-minimum-window-substring) |
 | [0165-compare-version-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0165-compare-version-numbers) |
+| [0481-magical-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0165-compare-version-numbers) |
+| [0481-magical-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0481-magical-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0647-palindromic-substrings) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
