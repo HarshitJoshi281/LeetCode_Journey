@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0237-delete-node-in-a-linked-list) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0016-3sum-closest) |
+| [0086-partition-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0165-compare-version-numbers) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
