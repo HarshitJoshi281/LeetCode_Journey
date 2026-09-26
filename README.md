@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2370-longest-ideal-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2370-longest-ideal-subsequence) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1261-find-elements-in-a-contaminated-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2121-intervals-between-identical-elements) |
 | [2370-longest-ideal-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2370-longest-ideal-subsequence) |
