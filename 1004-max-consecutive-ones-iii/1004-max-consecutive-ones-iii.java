@@ -12,6 +12,7 @@ class Solution {
 
             if (nums[j] == 0) {
                 count++;
+                int temp =i;
 
                 if (count > k) {
                     
