@@ -1,56 +1,24 @@
 class Solution {
     public boolean checkIfCanBreak(String s1, String s2) {
-        int strength1=0;
-        int strength2=0;
-        for(int i =0;i<s2.length();i++){
-            strength1+=s1.charAt(i)-'a';
-            strength2+=s2.charAt(i)-'a';
-        }
-        
-        int[] freq = new int[26];
-        if(strength1>strength2){
-           for(int i =0;i<s2.length();i++){
-            char ch = s2.charAt(i);
-            freq[ch-'a']++;
+        char[] a = s1.toCharArray();
+        char[] b = s2.toCharArray();
 
-        }
-        for(int i = 0;i<s1.length();i++){
-            char ch = s1.charAt(i);
-            boolean flag = false;
-            for(int j =ch-'a';j>=0;j--){
-                if(freq[j]>0){
-                    freq[j]--;
-                    flag=true;
-                    break;
-                }
-            }
-            if(!flag){
-                return false;
-            }
-        }
-        }
-        else{
-            for(int i =0;i<s2.length();i++){
-            char ch = s1.charAt(i);
-            freq[ch-'a']++;
+        Arrays.sort(a);
+        Arrays.sort(b);
 
-        }
-        for(int i = 0;i<s1.length();i++){
-            char ch = s2.charAt(i);
-            boolean flag = false;
-            for(int j =ch-'a';j>=0;j--){
-                if(freq[j]>0){
-                    freq[j]--;
-                    flag=true;
-                    break;
-                }
+        boolean s1BreaksS2 = true;
+        boolean s2BreaksS1 = true;
+
+        for (int i = 0; i < a.length; i++) {
+            if (a[i] < b[i]) {
+                s1BreaksS2 = false;
             }
-            if(!flag){
-                return false;
+
+            if (b[i] < a[i]) {
+                s2BreaksS1 = false;
             }
-        } 
         }
-        
-        return true;
+
+        return s1BreaksS2 || s2BreaksS1;
     }
 }
