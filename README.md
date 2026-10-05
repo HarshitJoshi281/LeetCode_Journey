@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0856-score-of-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0481-magical-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0647-palindromic-substrings) |
+| [0856-score-of-parentheses](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0856-score-of-parentheses) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1092-shortest-common-supersequence) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0856-score-of-parentheses) |
 ## Divide and Conquer
 |  |
 | ------- |
