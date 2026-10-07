@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2553-separate-the-digits-in-an-array) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3115-maximum-prime-difference](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3115-maximum-prime-difference) |
 | [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2523-closest-prime-numbers-in-range](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2523-closest-prime-numbers-in-range) |
+| [3115-maximum-prime-difference](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Union-Find
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
