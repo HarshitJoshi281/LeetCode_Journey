@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3115-maximum-prime-difference](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3115-maximum-prime-difference) |
 | [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3731-find-missing-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3742-maximum-path-score-in-a-grid) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3576-transform-array-to-all-equal-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3576-transform-array-to-all-equal-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Sorting
