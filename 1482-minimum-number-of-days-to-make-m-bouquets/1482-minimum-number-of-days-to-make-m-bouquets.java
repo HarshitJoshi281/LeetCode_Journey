@@ -1,6 +1,6 @@
 class Solution {
     public int minDays(int[] bloomDay, int m, int k) {
-        if(m*k>bloomDay.length)return -1;
+       // if(m*k>bloomDay.length)return -1;
          int max = 0;
          int n = bloomDay.length;
          for(int i =0;i<n;i++){
