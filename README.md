@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
