@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0016-3sum-closest) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0368-largest-divisible-subset) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0165-compare-version-numbers) |
+| [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0481-magical-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0481-magical-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0647-palindromic-substrings) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -428,4 +431,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3115-maximum-prime-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
