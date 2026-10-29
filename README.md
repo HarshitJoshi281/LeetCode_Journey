@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0739-daily-temperatures) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0877-stone-game) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0930-binary-subarrays-with-sum) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0628-maximum-product-of-three-numbers) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0910-smallest-range-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0910-smallest-range-ii) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1331-rank-transform-of-an-array) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0481-magical-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0647-palindromic-substrings) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1048-longest-string-chain](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -333,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0540-single-element-in-a-sorted-array) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -383,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0023-merge-k-sorted-lists) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0786-k-th-smallest-prime-fraction) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting Sort
 |  |
