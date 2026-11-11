@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1754-largest-merge-of-two-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2351-first-letter-to-appear-twice](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2370-longest-ideal-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2370-longest-ideal-subsequence) |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2391-minimum-amount-of-time-to-collect-garbage) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
 | [2121-intervals-between-identical-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2121-intervals-between-identical-elements) |
+| [2351-first-letter-to-appear-twice](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [2370-longest-ideal-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2370-longest-ideal-subsequence) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1267-count-servers-that-communicate) |
 | [1814-count-nice-pairs-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1814-count-nice-pairs-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
 ## Heap (Priority Queue)
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
+| [2351-first-letter-to-appear-twice](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2351-first-letter-to-appear-twice) |
 ## Pigeonhole Principle
 |  |
 | ------- |
