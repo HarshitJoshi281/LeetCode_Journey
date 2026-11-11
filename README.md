@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3115-maximum-prime-difference](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3115-maximum-prime-difference) |
 | [3527-find-the-most-common-response](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3527-find-the-most-common-response) |
 | [3576-transform-array-to-all-equal-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3576-transform-array-to-all-equal-elements) |
+| [3693-climbing-stairs-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3693-climbing-stairs-ii) |
 | [3731-find-missing-elements](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2370-longest-ideal-subsequence](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2370-longest-ideal-subsequence) |
 | [2501-longest-square-streak-in-an-array](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/2501-longest-square-streak-in-an-array) |
+| [3693-climbing-stairs-ii](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3693-climbing-stairs-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Number Theory
 |  |
