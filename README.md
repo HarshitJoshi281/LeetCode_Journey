@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3742-maximum-path-score-in-a-grid](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3899-angles-of-a-triangle](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3899-angles-of-a-triangle) |
 ## Simulation
 |  |
 | ------- |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3875-construct-uniform-parity-array-i) |
+| [3899-angles-of-a-triangle](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3899-angles-of-a-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -462,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/0287-find-the-duplicate-number) |
+## Geometry
+|  |
+| ------- |
+| [3899-angles-of-a-triangle](https://github.com/HarshitJoshi281/LeetCode_Journey/tree/master/3899-angles-of-a-triangle) |
 <!---LeetCode Topics End-->
